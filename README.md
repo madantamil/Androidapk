@@ -1,2 +1,2 @@
-# Androidapk
-Android based apk for the poroject
+# FBAutomate
+This is to automate FB Login and Logout features
