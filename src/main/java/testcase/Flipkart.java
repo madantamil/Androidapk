@@ -18,8 +18,6 @@ public class AndroidRepo {
 System.out.println("Success");
 		System.out.println("Success - pipeline 1 multi pipeline - Android Repo");
 		System.out.println("AndroidRepo - MadanTamil credential");
-
-//
 		
 
 	}
